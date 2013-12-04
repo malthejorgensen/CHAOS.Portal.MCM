@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Folder_Create
 (
 	UserGuid			BINARY(16),

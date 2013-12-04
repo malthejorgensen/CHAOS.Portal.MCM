@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE FolderType_Create
 (
     IN  Name    VARCHAR(255)

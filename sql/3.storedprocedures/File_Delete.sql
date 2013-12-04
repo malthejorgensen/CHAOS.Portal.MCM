@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE File_Delete
 (
     ID  int unsigned

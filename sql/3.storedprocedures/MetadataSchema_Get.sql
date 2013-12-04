@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE MetadataSchema_Get
 (
     IN  UserGuid            BINARY(16),

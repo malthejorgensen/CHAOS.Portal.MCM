@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE ObjectRelationType_Get
 (
     ID		INT,

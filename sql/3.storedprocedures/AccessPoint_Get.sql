@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE AccessPoint_Get(
     AccessPointGuid BINARY(16),
     UserGuid        BINARY(16),

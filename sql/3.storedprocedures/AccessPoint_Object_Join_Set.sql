@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE AccessPoint_Object_Join_Set
 (
     AccessPointGuid BINARY(16),

@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Folder_User_Join_Set
 (
     UserGuid    BINARY(16),

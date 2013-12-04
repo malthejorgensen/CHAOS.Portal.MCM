@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE FormatCategory_Create
 (    
 	IN  FormatTypeID    INT,

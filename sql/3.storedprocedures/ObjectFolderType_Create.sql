@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE ObjectFolderType_Create
 (
     ID      INT UNSIGNED,

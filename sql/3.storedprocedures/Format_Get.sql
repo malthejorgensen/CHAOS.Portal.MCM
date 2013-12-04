@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Format_Get
 (
     IN  ID      INT,

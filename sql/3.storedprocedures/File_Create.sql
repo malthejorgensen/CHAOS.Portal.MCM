@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE File_Create
 (
 	ObjectGuid          BINARY(16),

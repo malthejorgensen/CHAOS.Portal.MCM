@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE ObjectType_Set
 (
     ID      INT,

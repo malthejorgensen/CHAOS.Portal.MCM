@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Object_GetByRelatedObjectGUID
 (
     RelatedObjectGUID       BINARY(16),

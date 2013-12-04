@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE ObjectRelation_Delete
 (
     Object1Guid				BINARY(16),

@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE ObjectType_Delete
 (
     ID      INT,

@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Object_GetByFolderID
 (
     FolderID                INT UNSIGNED,

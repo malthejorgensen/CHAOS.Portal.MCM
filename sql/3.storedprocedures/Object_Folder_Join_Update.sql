@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Object_Folder_Join_Update
 (
     ObjectGuid      BINARY(16),

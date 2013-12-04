@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE FolderInfo_Get
 (
 	FolderIDs	VARCHAR(21845)

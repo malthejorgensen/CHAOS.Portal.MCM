@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE MetadataSchema_Update
 (
     Guid        BINARY(16),

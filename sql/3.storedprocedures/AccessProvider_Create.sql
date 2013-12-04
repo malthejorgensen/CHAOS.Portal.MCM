@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE AccessProvider_Create
 (
     DestinationID   INT UNSIGNED, 

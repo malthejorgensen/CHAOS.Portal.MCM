@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE File_Get
 (
     ID  INT

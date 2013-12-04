@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE ObjectRelation_SetMetadata
 (
     Object1Guid				BINARY(16),

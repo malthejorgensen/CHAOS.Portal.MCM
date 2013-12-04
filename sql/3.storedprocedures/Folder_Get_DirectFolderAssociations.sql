@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Folder_Get_DirectFolderAssociations(
     GroupGUIDs          VARCHAR(21845),
     UserGUID			      BINARY(16),

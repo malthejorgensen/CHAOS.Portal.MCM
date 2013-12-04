@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Object_GetByGUIDs
 (
     GUIDs                   VARCHAR(21845),

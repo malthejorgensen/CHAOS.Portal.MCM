@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE DestinationInfo_Get
 (
     ID   INT UNSIGNED

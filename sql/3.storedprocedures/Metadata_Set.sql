@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Metadata_Set
 (
     GUID                BINARY(16),

@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Object_Create
 (
     Guid            BINARY(16),

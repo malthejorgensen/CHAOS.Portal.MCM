@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Folder_Group_Join_Set
 (
     GroupGuid   BINARY(16),

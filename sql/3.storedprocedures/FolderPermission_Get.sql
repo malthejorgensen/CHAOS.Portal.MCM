@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE FolderPermission_Get
 (
 

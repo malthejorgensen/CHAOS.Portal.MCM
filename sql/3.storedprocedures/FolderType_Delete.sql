@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE FolderType_Delete
 (
     IN ID   INT)

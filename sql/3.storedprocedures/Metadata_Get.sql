@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Metadata_Get
 (
     Guid	BINARY(16)

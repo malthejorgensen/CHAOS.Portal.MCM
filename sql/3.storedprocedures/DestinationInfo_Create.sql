@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Destination_Create
 (
     SubscriptionGUID    BINARY(16), 

@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE FormatType_Update
 (
     ID      INT,

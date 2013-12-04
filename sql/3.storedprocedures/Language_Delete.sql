@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Language_Delete
 (
     LanguageCode        VARCHAR(10)

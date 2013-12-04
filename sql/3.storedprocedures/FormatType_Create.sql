@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE FormatType_Create
 (
     Name    VARCHAR(255)

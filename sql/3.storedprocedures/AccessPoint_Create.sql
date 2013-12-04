@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE AccessPoint_Create
 (
     GUID                BINARY(16),

@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Language_Create
 (
     Name			VARCHAR(255),

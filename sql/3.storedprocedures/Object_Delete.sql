@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Object_Delete
 (
     Guid	BINARY(16)

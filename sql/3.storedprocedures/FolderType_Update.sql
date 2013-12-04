@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE FolderType_Update
 (
     IN  ID      INT,

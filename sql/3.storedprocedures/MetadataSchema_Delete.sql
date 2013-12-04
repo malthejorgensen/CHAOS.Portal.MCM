@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE MetadataSchema_Delete
 (
     Guid	BINARY(16)

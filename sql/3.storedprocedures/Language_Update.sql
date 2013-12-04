@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE PROCEDURE Language_Update
 (
     Name			VARCHAR(255),
