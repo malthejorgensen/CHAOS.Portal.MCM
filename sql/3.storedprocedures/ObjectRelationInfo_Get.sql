@@ -1,6 +1,6 @@
 DELIMITER //
 
-﻿CREATE PROCEDURE ObjectRelationInfo_Get
+CREATE PROCEDURE ObjectRelationInfo_Get
 (
 	Object1Guid	BINARY(16)
 )
