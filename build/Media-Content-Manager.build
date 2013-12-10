@@ -30,6 +30,7 @@
 		
     </ilmerge>
     
+    <!--
     <nunit2>
       <formatter type="Plain" />
       <test assemblyname="..\src\test\Chaos.Mcm.Test\bin\Release\Chaos.Mcm.Test.dll">
@@ -39,6 +40,7 @@
         </references>
       </test>
     </nunit2>
+    -->
     
   </target>
   
